@@ -1,2 +1,1 @@
 Bu klasör STM32F407VG discovery geliştirme kartının dökümanlarını içerir.
-eğitim için değişiklik yaptım.
